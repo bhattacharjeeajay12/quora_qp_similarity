@@ -9,3 +9,9 @@ Quora is a place to gain and share knowledge—about anything. It’s a platform
 1. Identify which questions asked on Quora are duplicates of questions that have already been asked.<br/>
 2. This could be useful to instantly provide answers to questions that have already been answered.<br/>
 3. We are tasked with predicting whether a pair of questions are duplicates or not.<br/>
+
+<b> IPYTHON Files Description </b>
+1. Quora.ipynb - Overall problem description <br/>
+2. Quora_Preprocessing.ipynb - Includes data preprocessing <br/>
+3. Q_Mean_W2V.ipynb - Use of W2V for vectorisation <br/>
+4. Quora_question_pair_final.ipynb - Notebook contains models applied and results <br/>
